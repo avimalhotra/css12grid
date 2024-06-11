@@ -5,7 +5,7 @@ button{ padding: 0; cursor: pointer;}
 a{ text-decoration: none;}
 ul{ list-style: none; padding: 0;}
 iframe{ border: none;}
-
+abbr[title]{ cursor: help;}
 
 html{
     font-size: 15px;
